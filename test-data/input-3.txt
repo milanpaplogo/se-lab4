@@ -1,0 +1,5 @@
+# SINGLE alternates between the stores
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary (always fails)
+TORPEDO,SINGLE  # primary again
