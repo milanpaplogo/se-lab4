@@ -1,0 +1,4 @@
+# SINGLE fires only one store
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # secondary still has a torpedo

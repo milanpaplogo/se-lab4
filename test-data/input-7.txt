@@ -1,0 +1,3 @@
+# Failed primary -> secondary is not tried
+GT4500,1,1,1,0
+TORPEDO,SINGLE  # primary fails, no fallback

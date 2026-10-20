@@ -1,0 +1,3 @@
+# ALL, one store empty
+GT4500,0,0,1,0
+TORPEDO,ALL  # empty store skipped, secondary fires
